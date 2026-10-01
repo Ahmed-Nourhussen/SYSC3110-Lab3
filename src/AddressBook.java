@@ -4,11 +4,6 @@ import java.util.List;
 public class AddressBook {
     private List<BuddyInfo> buddies = new ArrayList<>();
 
-
-
-    
-
-
     public void addBuddy(BuddyInfo buddy){
         if(buddy != null){
             buddies.add(buddy);}
