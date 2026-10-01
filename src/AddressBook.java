@@ -6,7 +6,7 @@ public class AddressBook {
 
     public void addBuddy(BuddyInfo buddy){
         if(buddy != null){
-            buddies.add(buddy);} //Test 
+            buddies.add(buddy);} //Test Bob
     }
 
     public void removeBuddy(BuddyInfo buddy){
