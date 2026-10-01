@@ -11,7 +11,7 @@ public class AddressBook {
 
     public void removeBuddy(BuddyInfo buddy){
         if(buddy != null){
-            buddies.remove(buddy); //Test
+            buddies.remove(buddy); //Test2
         }
     }
 
